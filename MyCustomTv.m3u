@@ -371,108 +371,6 @@ https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8
 #EXTINF:-1 tvg-name="STORTINGET TV" tvg-id="StortingetTv.no" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/NRK_Stortinget_Logo_Variante.jpg" group-title="YABANCI",STORTINGET TV
 https://httpcache1.dna.ip-only.net/90415-cachemn0/stortinget/8183/0/hls/Stortingssalen/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/channels/color/cheddar-business_color.png" group-title="YABANCI",CHEDDAR TV
-https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title="YABANCI",BBC NEWS
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png" group-title="YABANCI",SKY NEWS
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-
-#EXTINF:8 tvg-name="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo.png" group-title="YABANCI",CNN
-https://d1yx2biofua75q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/index.m3u8
-
-#EXTINF:8 tvg-name="CBS NEWS" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/cbs-news-logo.jpg" group-title="YABANCI",CBS NEWS
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-
-#EXTINF:8 tvg-name="CGTN AMERICA" tvg-logo="https://i1.sndcdn.com/artworks-7ZEMzzU35Gl88RWw-kgsHLQ-t1080x1080.jpg" group-title="YABANCI",CGTN AMERICA
-https://english-livebkali.cgtn.com/live/encgtn.m3u8
-
-#EXTINF:-1 tvg-name="C-SPAN" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mE7sPnKhbJKbqDc9ESEjaK0Ip3jwQkGY4a3USPkxEXSUw=s900-c-k-c0x00ffffff-no-rj" group-title="YABANCI",C-SPAN
-https://fl25.moveonjoy.com/C-SPAN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q0FfqdV/Globalnews.png" group-title="YABANCI",GLOBAL NEWS
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R4xVMYc/enews.png" group-title="YABANCI",EURONEWS 
-https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503/bitok/e/26031/euronews-en.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="YABANCI",FRANCE 24 
-https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84XLZJq/dw.png" group-title="YABANCI",DW ENGLISH
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vt0XZKf/Cbcnews.png" group-title="YABANCI",CBC NEWS
-https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
-
-#EXTINF:8 tvg-name="RT NEWS" tvg-logo="https://ddtelevision.weebly.com/uploads/1/1/9/4/119425323/799715736_orig.jpg" group-title="YABANCI",RT NEWS
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/27-270100_channel-newsasia-logo-channel-news-asia-hd-png.png" group-title="YABANCI",NEWS ASIA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png" group-title="YABANCI",NHK WORLD
-https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
-
-#EXTINF:-1 tvg-logo="https://taiwantvnews.com/wp-content/uploads/2023/05/TAIWAN-TV-NEWS.png" group-title="YABANCI",TAIWAN NEWS TV
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png" group-title="YABANCI",CGTN NEWS
-https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-
-#EXTINF:6 tvg-name="AJZ TV" tvg-language="English" tvg-country="USA" tvg-id="AJZ TV" tvg-logo="https://cdn.vox-cdn.com/thumbor/eE0t8u6vxZq5mGEQ3AkBB_Z5rJ8=/30x0:519x326/1200x800/filters:focal(30x0:519x326)/cdn.vox-cdn.com/assets/1946075/aljazeera.png" group-title="YABANCI",AJZ TV
-https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
-
-#EXTINF:4 tvg-name="ABC NEWS" tvg-language="English" tvg-country="USA" tvg-id="ABC NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/ABC-News-Emblem.png" group-title="YABANCI",ABC NEWS
-https://livetv-fa.tubi.video/abc-news/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="YABANCI",FOX NEWS
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/17rc425/voa.png" group-title="YABANCI",VOA TV
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png" group-title="YABANCI",GB NEWS
-https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XWNXpVg/talk.png" group-title="YABANCI",TALK NEWS
-https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://img3.wikia.nocookie.net/__cb20130825034903/logopedia/images/8/84/Yahoo!_18_Favicon.png" group-title="YABANCI",YAHOO
-https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/545160.jpg" group-title="YABANCI",FOX BUSINESS
-http://41.205.93.154/FOXBUSINESS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/bloomberg-logo-png-bloomberg-l-p-about-careers-products-contacts-1200x630.png" group-title="YABANCI",BLOOMBERG USA
-https://bloomberg.com/media-manifest/streams/us.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/CNBC-Logo.png" group-title="YABANCI",CNBC
-https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
-
-#EXTINF:-1 tvg-logo="https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/d519fba0-7576-4af4-8283-94d382196ae8/landscape_SCHN_logo.png" group-title="YABANCI",SCHWAB NETWORK
-https://tdameritrade-distro.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lHPbB8ofmOO9z-qIfDyvdIkJwvZQIlzMkLheepDb2PWDQ=s900-c-k-c0x00ffffff-no-rj" group-title="YABANCI",ABC NEWS AU
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logoeps.com/wp-content/uploads/2012/12/pbs-logo-vector.png" group-title="YABANCI",PBS
-https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
-
-#EXTINF:1 tvg-name="PBS KIDS TV" tvg-language="English" tvg-country="USA" tvg-id="PBS KIDS TV" tvg-logo="https://1000logos.net/wp-content/uploads/2021/11/PBS-Kids-Logo-1999.png" group-title="YABANCI",PBS KIDS TV
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://fltaradio.com/upload/2018/09/cgtn-documentary.jpg" group-title="YABANCI",CGTN DOCUMENTRAY
-https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/BBC_Earth_Logo.png/revision/latest?cb=20140315014016" group-title="YABANCI",BBC EARTH
-https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://go2travelling.net/wp-content/uploads/go2-logo-pink.png" group-title="YABANCI",GO2TRAVEL
-https://go2thls.wns.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gAKgCxYU1hHi4Q9_PGH7Ut3sFgXvQPVe85TNA4yy50HBRp8dApHNXfhUKdLK2W1B9YTx" group-title="YABANCI",BARAZA MUSIC
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 
@@ -481,6 +379,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-HPKM7-dh0vY/AAAAAAAAAAI/AAAAAAAAAAA/VF5qFJziupM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="YABANCI",CMUSIC
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
 
 
 
