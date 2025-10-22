@@ -20,7 +20,7 @@ https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1649424566&st=4Y790MeXScF5LDOhVNykUQ&tv=1&app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=3
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://trn03.tulix.tv/gt-trt1-tveu/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
@@ -483,6 +483,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-HPKM7-dh0vY/AAAAAAAAAAI/AAAAAAAAAAA/VF5qFJziupM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="YABANCI",CMUSIC
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
 
 
 
