@@ -486,219 +486,26 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 
 # ---- 🎬 TV Shows ----
 
-#EXTINF:-1 tvg-id="Asi.s01e01" tvg-name="Asi - 1. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 1. Bölüm
+
+# ---- 🎬 TV Shows ----
+
+#EXTINF:-1 tvg-id="" tvg-name="Asi.s01e01" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi s01 e01
 #EXTGRP:TV Shows
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10962_5b65/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e02" tvg-name="Asi - 2. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 2. Bölüm
+#EXTINF:-1 tvg-id="" tvg-name="Asi.s01e02" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi s01 e02
 #EXTGRP:TV Shows
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10964_4cec/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e03" tvg-name="Asi - 3. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 3. Bölüm
+#EXTINF:-1 tvg-id="" tvg-name="Asi.s01e03" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi s01 e03
 #EXTGRP:TV Shows
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11055_82cc/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e04" tvg-name="Asi - 4. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 4. Bölüm
+#EXTINF:-1 tvg-id="" tvg-name="Asi.s01e04" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi s01 e04
 #EXTGRP:TV Shows
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10963_6401/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e05" tvg-name="Asi - 5. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 5. Bölüm
+#EXTINF:-1 tvg-id="" tvg-name="Asi.s01e05" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi s01 e05
 #EXTGRP:TV Shows
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10967_0526/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e06" tvg-name="Asi - 6. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 6. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/10970_2fb8/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e07" tvg-name="Asi - 7. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 7. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/10972_2712/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e08" tvg-name="Asi - 8. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 8. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/10974_3966/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e09" tvg-name="Asi - 9. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 9. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/10976_0346/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e10" tvg-name="Asi - 10. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 10. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/10973_afce/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e11" tvg-name="Asi - 11. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 11. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/10975_4cb3/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e12" tvg-name="Asi - 12. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 12. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/10977_ae63/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e13" tvg-name="Asi - 13. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 13. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/10979_b30e/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e14" tvg-name="Asi - 14. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 14. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/10982_f1c3/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e15" tvg-name="Asi - 15. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 15. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/10991_2640/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e16" tvg-name="Asi - 16. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 16. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/10961_e1be/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e17" tvg-name="Asi - 17. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 17. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/10966_1f5e/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e18" tvg-name="Asi - 18. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 18. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/10965_5e59/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e19" tvg-name="Asi - 19. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 19. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/10968_5d59/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e20" tvg-name="Asi - 20. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 20. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/10969_492e/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e21" tvg-name="Asi - 21. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 21. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11020_3159/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e22" tvg-name="Asi - 22. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 22. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11019_6d12/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e23" tvg-name="Asi - 23. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 23. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11021_67d0/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e24" tvg-name="Asi - 24. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 24. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11022_f6b4/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e25" tvg-name="Asi - 25. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 25. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11026_d4b6/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e26" tvg-name="Asi - 26. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 26. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11023_f02f/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e27" tvg-name="Asi - 27. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 27. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11024_fab1/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e28" tvg-name="Asi - 28. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 28. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11025_9b9a/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e29" tvg-name="Asi - 29. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 29. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11027_2623/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e30" tvg-name="Asi - 30. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 30. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11028_8db5/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e31" tvg-name="Asi - 31. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 31. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11054_a883/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e32" tvg-name="Asi - 32. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 32. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11053_eaf9/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e33" tvg-name="Asi - 33. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 33. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11052_7ea1/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e34" tvg-name="Asi - 34. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 34. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11051_7aa7/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e35" tvg-name="Asi - 35. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 35. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11072_6e44/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e36" tvg-name="Asi - 36. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 36. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11067_2b58/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e37" tvg-name="Asi - 37. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 37. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11068_3f57/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e38" tvg-name="Asi - 38. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 38. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11069_8dd3/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e39" tvg-name="Asi - 39. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 39. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11071_006e/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e40" tvg-name="Asi - 40. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 40. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11087_c516/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e41" tvg-name="Asi - 41. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 41. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11083_cb03/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e42" tvg-name="Asi - 42. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 42. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11084_4c64/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e43" tvg-name="Asi - 43. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 43. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11085_e54e/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e44" tvg-name="Asi - 44. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 44. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11086_af47/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e45" tvg-name="Asi - 45. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 45. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11088_811a/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e46" tvg-name="Asi - 46. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 46. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11094_b870/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e47" tvg-name="Asi - 47. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 47. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11091_fbdd/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e48" tvg-name="Asi - 48. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 48. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11101_9961/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e49" tvg-name="Asi - 49. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 49. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11103_3122/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e50" tvg-name="Asi - 50. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 50. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11104_c8ba/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e51" tvg-name="Asi - 51. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 51. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11112_c8f0/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e52" tvg-name="Asi - 52. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 52. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11111_53a9/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e53" tvg-name="Asi - 53. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 53. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11113_1e77/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e54" tvg-name="Asi - 54. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 54. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11114_6220/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e55" tvg-name="Asi - 55. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 55. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11115_eaf0/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e56" tvg-name="Asi - 56. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 56. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11131_66c8/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e57" tvg-name="Asi - 57. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 57. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11128_2a11/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e58" tvg-name="Asi - 58. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 58. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11127_6d23/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e59" tvg-name="Asi - 59. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 59. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11175_4c8c/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e60" tvg-name="Asi - 60. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 60. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11132_f44a/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e61" tvg-name="Asi - 61. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 61. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11134_97bb/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e62" tvg-name="Asi - 62. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 62. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11133_478e/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e63" tvg-name="Asi - 63. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 63. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11795_5b15/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e64" tvg-name="Asi - 64. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 64. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11140_28d9/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e65" tvg-name="Asi - 65. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 65. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11136_99b7/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e66" tvg-name="Asi - 66. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 66. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11137_ad72/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e67" tvg-name="Asi - 67. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 67. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11138_57df/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e68" tvg-name="Asi - 68. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 68. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11139_518d/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e69" tvg-name="Asi - 69. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 69. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11141_6963/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e70" tvg-name="Asi - 70. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 70. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11142_c0d6/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e71" tvg-name="Asi - 71. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 71. Bölüm
-#EXTGRP:TV Shows
-https://kanaldvod.duhnet.tv/S2/HLS_VOD/11143_238d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asi.s01e06" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi s01 e06
+
 
 
 
