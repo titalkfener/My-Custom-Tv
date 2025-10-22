@@ -1,3 +1,5 @@
+# ---- 📺 TV Channels ----
+
 #EXTM3U
 #EXTINF:0 tvg-name="MC EU TV" tvg-language="Turkish" tvg-country="TUR" tvg-id="MC EU -TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJyV4E_UXaeLr2LffC5zGX4ETHE9pJvZa0hGig=s900-c-k-c0xffffffff-no-rj-mo" group-title="Entertainment",MC EU TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
@@ -380,6 +382,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-HPKM7-dh0vY/AAAAAAAAAAI/AAAAAAAAAAA/VF5qFJziupM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="YABANCI",CMUSIC
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
+# ---- 🎬 TV Shows ----
+
 #EXTINF:-1 tvg-id="Asi.s01e01" tvg-name="Asi - 1. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 1. Bölüm
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10962_5b65/index.m3u8
 #EXTINF:-1 tvg-id="Asi.s01e02" tvg-name="Asi - 2. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 2. Bölüm
@@ -522,6 +526,7 @@ https://kanaldvod.duhnet.tv/S2/HLS_VOD/11141_6963/index.m3u8
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11142_c0d6/index.m3u8
 #EXTINF:-1 tvg-id="Asi.s02e71" tvg-name="Asi - 71. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 71. Bölüm
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11143_238d/index.m3u8
+
 
 
 
