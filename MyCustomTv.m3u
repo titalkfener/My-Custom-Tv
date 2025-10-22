@@ -384,219 +384,844 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 
 # ---- 🎬 TV Shows ----
 
-#EXTINF:-1 tvg-id="Asi.s01e01" tvg-name="Asi - 1. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 1. Bölüm
+# ---- 📺 TV Channels ----
+
+#EXTM3U
+#EXTINF:0 tvg-name="MC EU TV" tvg-language="Turkish" tvg-country="TUR" tvg-id="MC EU -TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJyV4E_UXaeLr2LffC5zGX4ETHE9pJvZa0hGig=s900-c-k-c0xffffffff-no-rj-mo" group-title="Entertainment",MC EU TV
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
+
+#EXTINF:-1 tvg-name="DOST TV" tvg-id="DostTv.tr" tvg-logo="https://vectorseek.com/wp-content/uploads/2024/02/Dost-TV-Logo-Vector.svg-.png" group-title="DINI",DOST TV
+https://dost.stream.emsal.im/tv/live.m3u8
+
+#EXTINF:-1 tvg-name="Tarih Tv" tvg-id="TarihTv.tr" tvg-logo="https://digiturkpaketler.com/img/kanallar/kanallar2/tarih-tv-buyuk.webp" group-title="BELGESEL",TARIH TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/Tarih-tv/playlist/0.m3u8
+
+#EXTINF:-1 tvg-name="TRT Muzik" tvg-id="TRTMuzik.tr" tvg-logo="https://i.ibb.co/4gbPpzC/trt-muzik.png" group-title="MUZIK",TRT MUZIK
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="TELE NEWS" tvg-id="TeleNews.tr" tvg-logo="https://yt3.googleusercontent.com/EYU8xAXRdaimJGo9eImNgo8aZ1_zU2ALs_JkQ1BrX-Z3nOSwS3vrxZ1yBJEBpzJavPZFzgt5Tw=s900-c-k-c0x00ffffff-no-rj" group-title="HABER",TELE NEWS
+https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
+
+#EXTINF:3 tvg-name="BLOOMBERG HT" tvg-language="Turkish" tvg-country="TR" tvg-id="BLOOMBERG HT" tvg-logo="https://www.newslive.com/wp-content/uploads/2015/05/Bloomberg-HT.png" group-title="Entertainment",BLOOMBERG HT
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1649424566&st=4Y790MeXScF5LDOhVNykUQ&tv=1&app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=3
+
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+
+#EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT2.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="ULUSAL",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TrtBelgeselTv.tr" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2018-12-14-16.28.44/bd4958b6530a4f539c0df8d227fdcd68.png" group-title="BELGESEL",TRT BELGESEL
+https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TrtBelgeselTv.tr" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2018-12-14-16.28.44/bd4958b6530a4f539c0df8d227fdcd68.png" group-title="BELGESEL",TRT BELGESEL
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="DOVE CHANNEL" tvg-id="DoveChannelTv.usa" tvg-logo="https://cdn6.aptoide.com/imgs/4/d/7/4d7d5cb2d5b93780d1dac419854dcf14_icon.png" group-title="YABANCI",DOVE CHANNEL
+https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CGTN DOCUMENTARY" tvg-id="CgtnDocumentary.tr" tvg-logo="https://www.wishtube.com/thumb.php?w=900&h=506&src=https://www.parsatv.com/index_files/channels/cgtndoc.png" group-title="BELGESEL",CGTN DOCUMENTARY
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RT DOCUMENTARY" tvg-id="RTDocumentary.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png" group-title="BELGESEL",RT DOCUMENTARY
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TRT AVAZ" tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="BELGESEL",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-logo="https://i.ibb.co/JHH0xcX/tgrtbel22.png" group-title="BELGESEL",TGRT BELGESEL
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" group-title="BELGESEL", NATIONAL GEOGRAPHIC
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD" group-title="BELGESEL", NATIONAL GEOGRAPHIC WILD
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tDB51ww/tarim.png" group-title="BELGESEL",TARIM TV
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vHwMgx0/ciftci.png" group-title="BELGESEL",ÇİFTÇİ TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D
+http://trn03.tulix.tv/gt-kanald-tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="ULUSAL",EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+
+#EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
+
+#EXTINF:-1 tvg-name="STAR TV" tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="ULUSAL",STAR TV
+https://mn-nl.mncdn.com/dogusdyg_star/live.m3u8?st=9T3ZAcboQ5eAN_HUqh9j_Q&e=1760610887
+
+#EXTINF:-1 tvg-name="STAR TV" tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="ULUSAL",STAR TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
+
+#EXTINF:-1 tvg-name="NOW" tvg-id="Fox.tr" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="ULUSAL",NOW
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+
+#EXTINF:-1 tvg-name="NOW" tvg-id="Fox.tr" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="ULUSAL",NOW
+https://trn03.tulix.tv/gt-fox-turk-tv/index.m3u8
+
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="ShowTV.tr" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV
+https://cdn503.freebroadcast.vip/showtv.m3u8?tkn=FAGRBqp04GYdp4dq7_BX0A&tms=1760537888&hst=tr.tvizle.me&ip=2001:4645:3054:0:6baf:a192:26cb:e0f1
+
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="ShowTV.tr" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+
+#EXTINF:-1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="ULUSAL",TV 8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+
+#EXTINF:-1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="ULUSAL",TV 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-name="TV 8.5" tvg-id="TV85.tr" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="SPOR",TV 8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
+
+#EXTINF:-1 tvg-name="TV 8.5" tvg-id="TV85.tr" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="SPOR",TV 8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+
+#EXTINF:-1 tvg-name="EKO TURK" tvg-id="EkoTurkTv.tr" tvg-logo="https://images.seeklogo.com/logo-png/61/2/ekoturk-logo-png_seeklogo-611924.png" group-title="EKONOMI",EKO TURK
+https://cdn501.freebroadcast.vip/ekoturktv.m3u8?tkn=p4sVG_0avmVdzR3JocpJsw&tms=1760538262&hst=tr.tvizle.me&ip=149.50.208.54
+
+#EXTINF:-1 tvg-name="DMAX" tvg-id="Dmax.tr" group-title="Entertainment",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+
+#EXTINF:-1 tvg-name="TLC" tvg-id="Tlc.tr" group-title="Entertainment",TLC
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+
+#EXTINF:-1 tvg-name="TLC" tvg-id="Tlc.tr" group-title="Entertainment",TLC
+https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
+
+#EXTINF:-1 tvg-name="Meltem TV" tvg-id="Meltem TV.tr" tvg-logo="https://meltemtv.com.tr/uploads/logo.png" group-title="ULUSAL",MELTEM TV
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Meltem TV" tvg-id="Meltem TV.tr" tvg-logo="https://meltemtv.com.tr/uploads/logo.png" group-title="ULUSAL",MELTEM TV
+http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+
+#EXTINF:0,tvg-name="TYT TURK" tvg-logo="https://tytturk.com/upload/tyt-logo.png" group-title="ULUSAL",TYT TURK
+https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
+
+#EXTINF:0,tvg-name="Tv 5" tvg-id="Tv5.tr" tvg-logo="https://www.pngkit.com/png/full/192-1929991_tv5-2015-on-screen-bugs-logo-tv-5.png" group-title="ULUSAL",TV 5
+https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KANAL 7" tvg-id="Kanal7.tr" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="ULUSAL",KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+
+#EXTINF:-1 tvg-name="KANAL 7" tvg-id="Kanal7.tr" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="ULUSAL",KANAL 7
+https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1
+
+#EXTINF:-1 tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/F4P8ddm/kanal-7-avrupa.png" group-title="ULUSAL",KANAL 7 AVRUPA
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="KANAL 7 AVRUPA" tvg-logo="https://i.ibb.co/F4P8ddm/kanal-7-avrupa.png" group-title="ULUSAL",KANAL 7 AVRUPA
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Diyanet TV" tvg-id="DiyanetTv.tr" group-title="DINI",DIYANET TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Aşr-ı Şerif TV" tvg-id="Aşr-ıŞerifTV.tr" tvg-logo="https://diyanet.tv/uploaded/videos/asr-i-serif---rahman-s%C3%BBresi-0s60t3axxp-1.jpg" group-title="DINI",Aşr-ı Şerif TV 
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-serif-tv/playlist/0.m3u8
+
+#EXTINF:-1 tvg-name="TRT Turk" tvg-id="TRTTurk.tr" tvg-logo="https://i.ibb.co/zN1BK38/trt-turk.png" group-title="ULUSAL",TRT TURK
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="TBMM TV" tvg-id="TbmmTv.tr" group-title="ULUSAL",TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+
+#EXTINF:-1 tvg-name="TRT COCUK" tvg-id="TRTCocuk.tr" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" group-title="ULUSAL",TRT COCUK
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="BeyazTV.tr" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="ULUSAL",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+
+#EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="BeyazTV.tr" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="ULUSAL",BEYAZ TV
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d
+
+#EXTINF:-1 tvg-name="TEVE2" tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="ULUSAL",TEVE 2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+
+#EXTINF:-1 tvg-name="360" tvg-id="360.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="ULUSAL",360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
+#EXTINF:-1 tvg-name="360" tvg-id="360.tr" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="ULUSAL",360
+https://tv.ensonhaber.com/tv360/tv360.m3u8
+
+#EXTINF:-1 tvg-name="KANAL 34" tvg-id="Kanal34Tv.tr" tvg-logo="https://tv.canlitvizle.online/kanallar/kanal-34.png" group-title="ULUSAL",KANAL 34
+https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8?hash=efa53f56200e081fa9cfad53373909d8
+
+#EXTINF:-1 tvg-name="KARDELEN TV" tvg-id="KardelenTv.tr" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lFYOI9_0gZB5qVdvTsehVNw8LXY68NARchxZg-BV0zqg=s900-c-k-c0x00ffffff-no-rj" group-title="ULUSAL",KARDELEN TV
+https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8 
+
+#EXTINF:-1 tvg-name="VUSLAT TV" tvg-id="VuslatTv.tr" tvg-logo="https://vuslattv.com.tr/uploads/logo/logo_66bdb4352c7ab7-60769650.png" group-title="ULUSAL",VUSLAT TV
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KANAL 3 AFYON" tvg-id="Kanal3AfyonTv.tr" group-title="ULUSAL",KANAL 3 AFYON
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
+
+#EXTINF:-1 tvg-name="TV 1" tvg-id="TV1.tr" group-title="ULUSAL",TV 1
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV 4" tvg-id="TV4.tr" tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png" group-title="ULUSAL",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+#EXTINF:-1 tvg-name="BI KANAL TV" tvg-id="BiKanalTV.tr" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/bi-kanal-tv-tvlive-3pc0.png" group-title="ULUSAL",BI KANAL TV
+https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CİNE1 TV" tvg-id="Cine.1.tr" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="ULUSAL",CINE1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="LIFE TV" tvg-id="" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="ULUSAL",LIFE TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CAN TV" tvg-id="" tvg-logo="https://cantv.tv/wp-content/uploads/2024/04/Cantv-logo-1140x570.png" group-title="ULUSAL",CAN TV
+https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
+
+#EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRTHaber.tr" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" group-title="HABER",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRTHaber.tr" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" group-title="HABER",TRT HABER
+https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
+
+#EXTINF:-1 tvg-name="CNN TURK" tvg-id="CNNTurk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=jrTCNUElDupsPTWIV8xi2g&e=1759891892
+
+#EXTINF:-1 tvg-name="CNN TURK" tvg-id="CNNTurk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
+
+#EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+
+#EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV
+http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
+
+#EXTINF:3 tvg-name="BLOOMBERG HT" tvg-language="Turkish" tvg-country="TR" tvg-id="BLOOMBERG HT" tvg-logo="https://www.newslive.com/wp-content/uploads/2015/05/Bloomberg-HT.png" group-title="Entertainment",BLOOMBERG HT
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="Entertainment",CNBC-E
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
+
+#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="Entertainment",CNBC-E
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
+
+#EXTINF:-1 tvg-name="HALK TV" tvg-id="HalkTV.tr" tvg-logo="https://i.ibb.co/DYhmg6k/halk-tv.png" group-title="HABER",HALK TV
+https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
+
+#EXTINF:-1 tvg-name="HALK TV" tvg-id="HalkTV.tr" tvg-logo="https://i.ibb.co/DYhmg6k/halk-tv.png" group-title="HABER",HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1 tvg-name="TELE 1" tvg-id="Tele1.tr" tvg-logo="https://i.ibb.co/6yVTw6f/tele1.png" group-title="HABER",TELE 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+
+#EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-id="SozcuTv.tr" tvg-logo="https://www.szctv.com.tr/lib/img/logo.png" group-title="HABER",SÖZCÜ TV
+https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
+
+#EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-id="SozcuTv.tr" tvg-logo="https://www.szctv.com.tr/lib/img/logo.png" group-title="HABER",SÖZCÜ TV
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Sozcu_Tv.m3u8
+
+#EXTINF:-1 tvg-name="TGRT HABER HD" tvg-id="TGRTHaber.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="HABER",TGRT HABER HD
+https://canli.tgrthaber.com/tgrt.m3u8
+
+#EXTINF:-1 tvg-name="TGRT HABER HD" tvg-id="TGRTHaber.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="HABER",TGRT HABER HD
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+
+#EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="HaberGlobal.tr" tvg-logo="https://i.ibb.co/4ZpZWkf/haber-global.png" group-title="HABER",HABER GLOBAL
+https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
+
+#EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="HaberGlobal.tr" tvg-logo="https://i.ibb.co/4ZpZWkf/haber-global.png" group-title="HABER",HABER GLOBAL
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
+
+#EXTINF:-1 tvg-name="Haberturk TV" tvg-id="HaberturkTV.tr" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" group-title="HABER",HABERTURK
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+
+#EXTINF:-1 tvg-name="Haberturk TV" tvg-id="HaberturkTV.tr" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" group-title="HABER",HABERTURK
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+
+#EXTINF:-1 tvg-name="TV 100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/zZnBCWt/tv100.png" group-title="HABER",TV 100
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
+
+#EXTINF:-1 tvg-name="TV 100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/zZnBCWt/tv100.png" group-title="HABER",TV 100
+https://ensonhaber-live.ercdn.net/tv100/tv100.m3u8
+
+#EXTINF:-1 tvg-name="EKOL TV" tvg-id="EkolTv.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPRFwshNRkKR5_3i2-1KmWE1rfaqJB57Ld6_CjkAmD5HjMIV0x86iMBE7hsxbMGcDYlw&usqp=CAU" group-title="HABER",EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+
+#EXTINF:-1 tvg-name="EKOL TV" tvg-id="EkolTv.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPRFwshNRkKR5_3i2-1KmWE1rfaqJB57Ld6_CjkAmD5HjMIV0x86iMBE7hsxbMGcDYlw&usqp=CAU" group-title="HABER",EKOL TV
+https://helga.iptv2022.com/sh/ekol_tv/index.m3u8
+
+#EXTINF:-1 tvg-name="LİDER HABER TV" tvg-id="EkolTv.tr" tvg-logo="https://tv.canlitvvolo.com/media/images/tvlogo/lider-haber-tv-tvlive-ws03.png" group-title="HABER",LİDER HABER TV 
+http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
+
+#EXTINF:-1 tvg-name="TVNET" tvg-id="TVNET.tr" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="HABER",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ÜLKE TV" tvg-id="UlkeTv.tr" group-title="HABER",ÜLKE TV 
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BENGUTURK TV" tvg-id="BenguturkTV.tr" tvg-logo="https://i.ibb.co/CHWhMvQ/bengu-turk.png" group-title="HABER",BENGU TURK
+https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
+
+#EXTINF:-1 tvg-name="BENGUTURK TV" tvg-id="BenguturkTV.tr" tvg-logo="https://i.ibb.co/CHWhMvQ/bengu-turk.png" group-title="HABER",BENGU TURK
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+
+#EXTINF:-1 tvg-name="24" tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" group-title="HABER",24
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+
+#EXTINF:-1 tvg-name="FLASH HABER" tvg-id="FlashHaber.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ff/flash-haber-tv-tr.png" group-title="HABER",FLASH HABER 
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
+
+#EXTINF:-1 tvg-name="FLASH HABER" tvg-id="FlashHaber.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ff/flash-haber-tv-tr.png" group-title="HABER",FLASH HABER 
+https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GZT TV" tvg-id="GztTv.tr" tvg-logo="https://latestlogo.com/wp-content/uploads/2024/03/gzt-logo.png" group-title="HABER",GZT TV
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ULUSAL KANAL" tvg-id="UlusalKanalTv.tr" group-title="HABER",ULUSAL KANAL
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
+
+#EXTINF:-1 tvg-name="MK TV" tvg-id="MkTv.tr" group-title="HABER",MK TV 
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KRT TV" tvg-id="KrtTv.tr" group-title="HABER",KRT TV 
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt_Tv.m3u8
+
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="SPOR",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="TRTSpor.tr" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="SPOR",TRT SPOR
+https://trt.daioncdn.net/trtspor/master.m3u8?app=web
+
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" group-title="SPOR",TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" group-title="SPOR",TRT SPOR YILDIZ
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?&app=2c6690bb-4021-4292-8ddc-c93a3cf04a3a
+
+#EXTINF:-1 tvg-name="BEINSPORTS HABER" tvg-id="BeinSportsHaberTv.tr" group-title="SPOR",BEINSPORTS HABER
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
+
+#EXTINF:-1 tvg-name="HABERTURK SPOR" tvg-id="HtSpor.tr" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="SPOR",HABERTURK SPOR
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+
+#EXTINF:-1 tvg-name="HABERTURK SPOR" tvg-id="HtSpor.tr" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="SPOR",HABERTURK SPOR
+https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
+
+#EXTINF:-1 tvg-name="FB TV" tvg-id="FBTv.tr" group-title="SPOR",FENERBAHÇE TV 
+https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FB TV" tvg-id="FBTv.tr" group-title="SPOR",FENERBAHÇE TV 
+https://fbtv.fenerbahce.org/fenerbahcetv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="A SPOR" tvg-id="ASporTv.tr" group-title="SPOR",A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+
+#EXTINF:-1 tvg-name="A SPOR" tvg-id="ASporTv.tr" group-title="SPOR",A SPOR
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_Spor.m3u8
+
+#EXTINF:-1 tvg-name="EKOL SPORTS" tvg-id="EkolSportsTv.tr" tvg-logo="https://yt3.googleusercontent.com/DzgqmDc_yXk6sZdoix3kaqkdU8SHn2fViNGsYeljLVOGJBKjDcccCX9UFA3ozp-_6pd8J34l4ME=s900-c-k-c0x00ffffff-no-rj" group-title="SPOR",EKOL SPORTS 
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
+
+#EXTINF:-1 tvg-name="SPORTS TV" tvg-id="SporsTv.tr" group-title="SPOR",SPORTS TV 
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+
+#EXTINF:-1 tvg-name="KRAL POP" tvg-id="Kral.Pop.Radyo.tr" tvg-logo="https://i.ibb.co/vk0bKz0/kral-pop.png" group-title="MUZIK",KRAL POP
+http://dygvideo.dygdigital.com/live/hls/kralpop
+
+#EXTINF:-1 tvg-name="Number 1 Ask" tvg-id="Number1Ask.tr" tvg-logo="https://i.ibb.co/5cJ0KtQ/nr1-ask.png" group-title="MUZIK",NR1 ASK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Number 1 Dance" tvg-id="Number1Dance.tr" tvg-logo="https://i.ibb.co/kXFSFTN/nr1-dance.png" group-title="MUZIK",NR1 DANCE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dream Turk" tvg-id="DreamTurk.tr" tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="MUZIK",DREAM TURK
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NRK 1" tvg-id="NRK1.no" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_nrk_1.png" group-title="YABANCI",NRK 1
+https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8
+
+#EXTINF:-1 tvg-name="NRK 2" tvg-id="NRK2.no" tvg-logo="https://www.connecttv.se/app/uploads/2020/06/channel_logo_nrk_2.png" group-title="YABANCI",NRK 2
+https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8
+
+#EXTINF:-1 tvg-name="NRK 3" tvg-id="NRK3.no" tvg-logo="https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/10003.png" group-title="YABANCI",NRK 3
+https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8
+
+#EXTINF:-1 tvg-name="STORTINGET TV" tvg-id="StortingetTv.no" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/NRK_Stortinget_Logo_Variante.jpg" group-title="YABANCI",STORTINGET TV
+https://httpcache1.dna.ip-only.net/90415-cachemn0/stortinget/8183/0/hls/Stortingssalen/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/channels/color/cheddar-business_color.png" group-title="YABANCI",CHEDDAR TV
+https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title="YABANCI",BBC NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8MBM4M1/skyn.png" group-title="YABANCI",SKY NEWS
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+
+#EXTINF:8 tvg-name="CNN" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo.png" group-title="YABANCI",CNN
+https://d1yx2biofua75q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/index.m3u8
+
+#EXTINF:8 tvg-name="CBS NEWS" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/cbs-news-logo.jpg" group-title="YABANCI",CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:8 tvg-name="CGTN AMERICA" tvg-logo="https://i1.sndcdn.com/artworks-7ZEMzzU35Gl88RWw-kgsHLQ-t1080x1080.jpg" group-title="YABANCI",CGTN AMERICA
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+
+#EXTINF:-1 tvg-name="C-SPAN" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mE7sPnKhbJKbqDc9ESEjaK0Ip3jwQkGY4a3USPkxEXSUw=s900-c-k-c0x00ffffff-no-rj" group-title="YABANCI",C-SPAN
+https://fl25.moveonjoy.com/C-SPAN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q0FfqdV/Globalnews.png" group-title="YABANCI",GLOBAL NEWS
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4xVMYc/enews.png" group-title="YABANCI",EURONEWS 
+https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503/bitok/e/26031/euronews-en.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="YABANCI",FRANCE 24 
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84XLZJq/dw.png" group-title="YABANCI",DW ENGLISH
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vt0XZKf/Cbcnews.png" group-title="YABANCI",CBC NEWS
+https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
+
+#EXTINF:8 tvg-name="RT NEWS" tvg-logo="https://ddtelevision.weebly.com/uploads/1/1/9/4/119425323/799715736_orig.jpg" group-title="YABANCI",RT NEWS
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pinpng.com/pngs/m/27-270100_channel-newsasia-logo-channel-news-asia-hd-png.png" group-title="YABANCI",NEWS ASIA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JCjsXZm/nhk.png" group-title="YABANCI",NHK WORLD
+https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
+
+#EXTINF:-1 tvg-logo="https://taiwantvnews.com/wp-content/uploads/2023/05/TAIWAN-TV-NEWS.png" group-title="YABANCI",TAIWAN NEWS TV
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png" group-title="YABANCI",CGTN NEWS
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+
+#EXTINF:6 tvg-name="AJZ TV" tvg-language="English" tvg-country="USA" tvg-id="AJZ TV" tvg-logo="https://cdn.vox-cdn.com/thumbor/eE0t8u6vxZq5mGEQ3AkBB_Z5rJ8=/30x0:519x326/1200x800/filters:focal(30x0:519x326)/cdn.vox-cdn.com/assets/1946075/aljazeera.png" group-title="YABANCI",AJZ TV
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+
+#EXTINF:4 tvg-name="ABC NEWS" tvg-language="English" tvg-country="USA" tvg-id="ABC NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/ABC-News-Emblem.png" group-title="YABANCI",ABC NEWS
+https://livetv-fa.tubi.video/abc-news/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png" group-title="YABANCI",FOX NEWS
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/17rc425/voa.png" group-title="YABANCI",VOA TV
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dpMQyVx/gbn.png" group-title="YABANCI",GB NEWS
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XWNXpVg/talk.png" group-title="YABANCI",TALK NEWS
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img3.wikia.nocookie.net/__cb20130825034903/logopedia/images/8/84/Yahoo!_18_Favicon.png" group-title="YABANCI",YAHOO
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/545160.jpg" group-title="YABANCI",FOX BUSINESS
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/bloomberg-logo-png-bloomberg-l-p-about-careers-products-contacts-1200x630.png" group-title="YABANCI",BLOOMBERG USA
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/CNBC-Logo.png" group-title="YABANCI",CNBC
+https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
+
+#EXTINF:-1 tvg-logo="https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/d519fba0-7576-4af4-8283-94d382196ae8/landscape_SCHN_logo.png" group-title="YABANCI",SCHWAB NETWORK
+https://tdameritrade-distro.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lHPbB8ofmOO9z-qIfDyvdIkJwvZQIlzMkLheepDb2PWDQ=s900-c-k-c0x00ffffff-no-rj" group-title="YABANCI",ABC NEWS AU
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logoeps.com/wp-content/uploads/2012/12/pbs-logo-vector.png" group-title="YABANCI",PBS
+https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
+
+#EXTINF:1 tvg-name="PBS KIDS TV" tvg-language="English" tvg-country="USA" tvg-id="PBS KIDS TV" tvg-logo="https://1000logos.net/wp-content/uploads/2021/11/PBS-Kids-Logo-1999.png" group-title="YABANCI",PBS KIDS TV
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fltaradio.com/upload/2018/09/cgtn-documentary.jpg" group-title="YABANCI",CGTN DOCUMENTRAY
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/BBC_Earth_Logo.png/revision/latest?cb=20140315014016" group-title="YABANCI",BBC EARTH
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://go2travelling.net/wp-content/uploads/go2-logo-pink.png" group-title="YABANCI",GO2TRAVEL
+https://go2thls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gAKgCxYU1hHi4Q9_PGH7Ut3sFgXvQPVe85TNA4yy50HBRp8dApHNXfhUKdLK2W1B9YTx" group-title="YABANCI",BARAZA MUSIC
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/06/Deluxe-Digital-Studios-Logo-2013.png" group-title="YABANCI",DELUXE MUSIC English
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-HPKM7-dh0vY/AAAAAAAAAAI/AAAAAAAAAAA/VF5qFJziupM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="YABANCI",CMUSIC
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
+# ---- 🎬 TV Shows ----
+
+#EXTINF:-1 tvg-id="Asi.s01e01" tvg-name="Asi - 1. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 1. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10962_5b65/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e02" tvg-name="Asi - 2. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 2. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e02" tvg-name="Asi - 2. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 2. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10964_4cec/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e03" tvg-name="Asi - 3. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 3. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e03" tvg-name="Asi - 3. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 3. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11055_82cc/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e04" tvg-name="Asi - 4. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 4. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e04" tvg-name="Asi - 4. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 4. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10963_6401/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e05" tvg-name="Asi - 5. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 5. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e05" tvg-name="Asi - 5. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 5. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10967_0526/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e06" tvg-name="Asi - 6. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 6. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e06" tvg-name="Asi - 6. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 6. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10970_2fb8/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e07" tvg-name="Asi - 7. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 7. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e07" tvg-name="Asi - 7. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 7. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10972_2712/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e08" tvg-name="Asi - 8. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 8. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e08" tvg-name="Asi - 8. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 8. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10974_3966/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e09" tvg-name="Asi - 9. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 9. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e09" tvg-name="Asi - 9. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 9. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10976_0346/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e10" tvg-name="Asi - 10. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 10. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e10" tvg-name="Asi - 10. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 10. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10973_afce/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e11" tvg-name="Asi - 11. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 11. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e11" tvg-name="Asi - 11. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 11. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10975_4cb3/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e12" tvg-name="Asi - 12. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 12. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e12" tvg-name="Asi - 12. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 12. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10977_ae63/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e13" tvg-name="Asi - 13. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 13. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e13" tvg-name="Asi - 13. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 13. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10979_b30e/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e14" tvg-name="Asi - 14. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 14. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e14" tvg-name="Asi - 14. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 14. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10982_f1c3/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e15" tvg-name="Asi - 15. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 15. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e15" tvg-name="Asi - 15. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 15. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10991_2640/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e16" tvg-name="Asi - 16. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 16. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e16" tvg-name="Asi - 16. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 16. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10961_e1be/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e17" tvg-name="Asi - 17. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 17. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e17" tvg-name="Asi - 17. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 17. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10966_1f5e/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e18" tvg-name="Asi - 18. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 18. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e18" tvg-name="Asi - 18. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 18. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10965_5e59/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e19" tvg-name="Asi - 19. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 19. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e19" tvg-name="Asi - 19. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 19. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10968_5d59/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e20" tvg-name="Asi - 20. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 20. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e20" tvg-name="Asi - 20. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 20. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/10969_492e/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e21" tvg-name="Asi - 21. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 21. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e21" tvg-name="Asi - 21. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 21. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11020_3159/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e22" tvg-name="Asi - 22. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 22. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e22" tvg-name="Asi - 22. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 22. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11019_6d12/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e23" tvg-name="Asi - 23. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 23. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e23" tvg-name="Asi - 23. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 23. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11021_67d0/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e24" tvg-name="Asi - 24. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 24. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e24" tvg-name="Asi - 24. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 24. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11022_f6b4/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e25" tvg-name="Asi - 25. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 25. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e25" tvg-name="Asi - 25. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 25. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11026_d4b6/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e26" tvg-name="Asi - 26. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 26. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e26" tvg-name="Asi - 26. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 26. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11023_f02f/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e27" tvg-name="Asi - 27. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 27. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e27" tvg-name="Asi - 27. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 27. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11024_fab1/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e28" tvg-name="Asi - 28. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 28. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e28" tvg-name="Asi - 28. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 28. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11025_9b9a/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e29" tvg-name="Asi - 29. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 29. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e29" tvg-name="Asi - 29. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 29. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11027_2623/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e30" tvg-name="Asi - 30. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 30. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e30" tvg-name="Asi - 30. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 30. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11028_8db5/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e31" tvg-name="Asi - 31. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 31. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e31" tvg-name="Asi - 31. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 31. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11054_a883/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e32" tvg-name="Asi - 32. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 32. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e32" tvg-name="Asi - 32. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 32. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11053_eaf9/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e33" tvg-name="Asi - 33. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 33. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e33" tvg-name="Asi - 33. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 33. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11052_7ea1/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s01e34" tvg-name="Asi - 34. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 34. Bölüm
+#EXTINF:-1 tvg-id="Asi.s01e34" tvg-name="Asi - 34. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 34. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11051_7aa7/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e35" tvg-name="Asi - 35. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 35. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e35" tvg-name="Asi - 35. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 35. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11072_6e44/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e36" tvg-name="Asi - 36. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 36. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e36" tvg-name="Asi - 36. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 36. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11067_2b58/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e37" tvg-name="Asi - 37. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 37. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e37" tvg-name="Asi - 37. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 37. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11068_3f57/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e38" tvg-name="Asi - 38. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 38. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e38" tvg-name="Asi - 38. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 38. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11069_8dd3/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e39" tvg-name="Asi - 39. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 39. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e39" tvg-name="Asi - 39. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 39. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11071_006e/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e40" tvg-name="Asi - 40. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 40. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e40" tvg-name="Asi - 40. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 40. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11087_c516/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e41" tvg-name="Asi - 41. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 41. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e41" tvg-name="Asi - 41. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 41. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11083_cb03/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e42" tvg-name="Asi - 42. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 42. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e42" tvg-name="Asi - 42. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 42. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11084_4c64/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e43" tvg-name="Asi - 43. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 43. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e43" tvg-name="Asi - 43. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 43. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11085_e54e/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e44" tvg-name="Asi - 44. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 44. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e44" tvg-name="Asi - 44. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 44. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11086_af47/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e45" tvg-name="Asi - 45. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 45. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e45" tvg-name="Asi - 45. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 45. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11088_811a/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e46" tvg-name="Asi - 46. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 46. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e46" tvg-name="Asi - 46. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 46. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11094_b870/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e47" tvg-name="Asi - 47. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 47. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e47" tvg-name="Asi - 47. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 47. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11091_fbdd/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e48" tvg-name="Asi - 48. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 48. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e48" tvg-name="Asi - 48. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 48. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11101_9961/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e49" tvg-name="Asi - 49. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 49. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e49" tvg-name="Asi - 49. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 49. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11103_3122/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e50" tvg-name="Asi - 50. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 50. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e50" tvg-name="Asi - 50. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 50. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11104_c8ba/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e51" tvg-name="Asi - 51. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 51. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e51" tvg-name="Asi - 51. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 51. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11112_c8f0/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e52" tvg-name="Asi - 52. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 52. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e52" tvg-name="Asi - 52. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 52. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11111_53a9/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e53" tvg-name="Asi - 53. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 53. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e53" tvg-name="Asi - 53. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 53. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11113_1e77/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e54" tvg-name="Asi - 54. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 54. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e54" tvg-name="Asi - 54. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 54. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11114_6220/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e55" tvg-name="Asi - 55. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 55. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e55" tvg-name="Asi - 55. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 55. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11115_eaf0/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e56" tvg-name="Asi - 56. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 56. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e56" tvg-name="Asi - 56. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 56. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11131_66c8/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e57" tvg-name="Asi - 57. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 57. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e57" tvg-name="Asi - 57. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 57. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11128_2a11/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e58" tvg-name="Asi - 58. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 58. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e58" tvg-name="Asi - 58. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 58. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11127_6d23/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e59" tvg-name="Asi - 59. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 59. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e59" tvg-name="Asi - 59. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 59. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11175_4c8c/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e60" tvg-name="Asi - 60. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 60. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e60" tvg-name="Asi - 60. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 60. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11132_f44a/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e61" tvg-name="Asi - 61. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 61. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e61" tvg-name="Asi - 61. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 61. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11134_97bb/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e62" tvg-name="Asi - 62. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 62. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e62" tvg-name="Asi - 62. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 62. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11133_478e/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e63" tvg-name="Asi - 63. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 63. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e63" tvg-name="Asi - 63. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 63. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11795_5b15/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e64" tvg-name="Asi - 64. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 64. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e64" tvg-name="Asi - 64. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 64. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11140_28d9/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e65" tvg-name="Asi - 65. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 65. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e65" tvg-name="Asi - 65. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 65. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11136_99b7/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e66" tvg-name="Asi - 66. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 66. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e66" tvg-name="Asi - 66. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 66. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11137_ad72/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e67" tvg-name="Asi - 67. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 67. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e67" tvg-name="Asi - 67. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 67. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11138_57df/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e68" tvg-name="Asi - 68. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 68. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e68" tvg-name="Asi - 68. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 68. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11139_518d/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e69" tvg-name="Asi - 69. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 69. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e69" tvg-name="Asi - 69. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 69. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11141_6963/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e70" tvg-name="Asi - 70. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 70. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e70" tvg-name="Asi - 70. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 70. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11142_c0d6/index.m3u8
-#EXTINF:-1 tvg-id="Asi.s02e71" tvg-name="Asi - 71. Bölüm" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 71. Bölüm
+#EXTINF:-1 tvg-id="Asi.s02e71" tvg-name="Asi - 71. Bölüm" series-id="Asi" tvg-logo="https://pics.filmaffinity.com/Asi_TV_Series-531743094-large.jpg" group-title="TV Shows", Asi - 71. Bölüm
 #EXTGRP:Asi
 https://kanaldvod.duhnet.tv/S2/HLS_VOD/11143_238d/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
