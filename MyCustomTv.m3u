@@ -10,8 +10,8 @@ https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:-1 tvg-name="Tarih Tv" tvg-id="TarihTv.tr" tvg-logo="https://digiturkpaketler.com/img/kanallar/kanallar2/tarih-tv-buyuk.webp" group-title="BELGESEL",TARIH TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/Tarih-tv/playlist/0.m3u8
 
-#EXTINF:-1 tvg-name="TRT Muzik" tvg-id="TRTMuzik.tr" tvg-logo="https://i.ibb.co/4gbPpzC/trt-muzik.png" group-title="MUZIK",TRT MUZIK
-https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TrtBelgeselTv.tr" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2018-12-14-16.28.44/bd4958b6530a4f539c0df8d227fdcd68.png" group-title="BELGESEL",TRT BELGESEL
+https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
 
 #EXTINF:-1 tvg-name="TELE NEWS" tvg-id="TeleNews.tr" tvg-logo="https://yt3.googleusercontent.com/EYU8xAXRdaimJGo9eImNgo8aZ1_zU2ALs_JkQ1BrX-Z3nOSwS3vrxZ1yBJEBpzJavPZFzgt5Tw=s900-c-k-c0x00ffffff-no-rj" group-title="HABER",TELE NEWS
 https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
@@ -26,10 +26,7 @@ https://trn03.tulix.tv/gt-trt1-tveu/playlist.m3u8
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
 #EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT2.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="ULUSAL",TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TrtBelgeselTv.tr" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2018-12-14-16.28.44/bd4958b6530a4f539c0df8d227fdcd68.png" group-title="BELGESEL",TRT BELGESEL
-https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
+https://cdn900.kavuntv.net/trt2.m3u8?tkn=vwQKt3xnQcdLHQO3Q8COww&tms=1761575864&hst=tv.kavuntv.net&ip=2001:4645:3054:0:afe1:128:ed83:b875
 
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TrtBelgeselTv.tr" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2018-12-14-16.28.44/bd4958b6530a4f539c0df8d227fdcd68.png" group-title="BELGESEL",TRT BELGESEL
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
@@ -39,9 +36,6 @@ https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CGTN DOCUMENTARY" tvg-id="CgtnDocumentary.tr" tvg-logo="https://www.wishtube.com/thumb.php?w=900&h=506&src=https://www.parsatv.com/index_files/channels/cgtndoc.png" group-title="BELGESEL",CGTN DOCUMENTARY
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
-
-#EXTINF:-1 tvg-name="RT DOCUMENTARY" tvg-id="RTDocumentary.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png" group-title="BELGESEL",RT DOCUMENTARY
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRT AVAZ" tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="BELGESEL",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
@@ -349,6 +343,9 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1 tvg-name="SPORTS TV" tvg-id="SporsTv.tr" group-title="SPOR",SPORTS TV 
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
+#EXTINF:-1 tvg-name="TRT Muzik" tvg-id="TRTMuzik.tr" tvg-logo="https://i.ibb.co/4gbPpzC/trt-muzik.png" group-title="MUZIK",TRT MUZIK
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+
 #EXTINF:-1 tvg-name="KRAL POP" tvg-id="Kral.Pop.Radyo.tr" tvg-logo="https://i.ibb.co/vk0bKz0/kral-pop.png" group-title="MUZIK",KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop
 
@@ -469,6 +466,9 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fltaradio.com/upload/2018/09/cgtn-documentary.jpg" group-title="YABANCI",CGTN DOCUMENTRAY
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 
+#EXTINF:-1 tvg-name="RT DOCUMENTARY" tvg-id="RTDocumentary.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png" group-title="BELGESEL",RT DOCUMENTARY
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/BBC_Earth_Logo.png/revision/latest?cb=20140315014016" group-title="YABANCI",BBC EARTH
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
@@ -483,6 +483,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-HPKM7-dh0vY/AAAAAAAAAAI/AAAAAAAAAAA/VF5qFJziupM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="YABANCI",CMUSIC
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
 
 
 
