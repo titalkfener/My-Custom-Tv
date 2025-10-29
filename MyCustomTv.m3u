@@ -80,7 +80,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressour
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
 #EXTINF:-1 tvg-name="NOW" tvg-id="Fox.tr" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="ULUSAL",NOW
-https://trn03.tulix.tv/gt-fox-turk-tv/index.m3u8
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=cVVHGY39rJOw_TvM7jL2jQ&e=1761744265
 
 #EXTINF:-1 tvg-name="SHOW TV" tvg-id="ShowTV.tr" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV
 https://cdn503.freebroadcast.vip/showtv.m3u8?tkn=FAGRBqp04GYdp4dq7_BX0A&tms=1760537888&hst=tr.tvizle.me&ip=2001:4645:3054:0:6baf:a192:26cb:e0f1
@@ -369,6 +369,7 @@ https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8
 
 #EXTINF:-1 tvg-name="STORTINGET TV" tvg-id="StortingetTv.no" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/NRK_Stortinget_Logo_Variante.jpg" group-title="YABANCI",STORTINGET TV
 https://httpcache1.dna.ip-only.net/90415-cachemn0/stortinget/8183/0/hls/Stortingssalen/playlist.m3u8
+
 
 
 
