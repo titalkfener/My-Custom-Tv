@@ -55,6 +55,9 @@ https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vHwMgx0/ciftci.png" group-title="BELGESEL",ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
+#EXTINF:-1 YABAN TV group-title="BELGESEL",YABAN TV
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
+
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
@@ -369,6 +372,7 @@ https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8
 
 #EXTINF:-1 tvg-name="STORTINGET TV" tvg-id="StortingetTv.no" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/NRK_Stortinget_Logo_Variante.jpg" group-title="YABANCI",STORTINGET TV
 https://httpcache1.dna.ip-only.net/90415-cachemn0/stortinget/8183/0/hls/Stortingssalen/playlist.m3u8
+
 
 
 
