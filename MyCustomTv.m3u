@@ -1,7 +1,7 @@
 # ---- 📺 TV Channels ----
 
 #EXTM3U
-#EXTINF:0 tvg-name="MC EU TV" tvg-language="Turkish" tvg-country="TUR" tvg-id="MC EU -TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJyV4E_UXaeLr2LffC5zGX4ETHE9pJvZa0hGig=s900-c-k-c0xffffffff-no-rj-mo" group-title="Entertainment",MC EU TV
+#EXTINF:0 tvg-name="MC EU TV" tvg-language="Turkish" tvg-country="TUR" tvg-id="MC EU -TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJyV4E_UXaeLr2LffC5zGX4ETHE9pJvZa0hGig=s900ENTERTAINMENT-c-k-c0xffffffff-no-rj-mo" group-title="",MC EU TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
 #EXTINF:-1 tvg-name="DOST TV" tvg-id="DostTv.tr" tvg-logo="https://vectorseek.com/wp-content/uploads/2024/02/Dost-TV-Logo-Vector.svg-.png" group-title="DINI",DOST TV
@@ -16,7 +16,7 @@ https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236
 #EXTINF:-1 tvg-name="TELE NEWS" tvg-id="TeleNews.tr" tvg-logo="https://yt3.googleusercontent.com/EYU8xAXRdaimJGo9eImNgo8aZ1_zU2ALs_JkQ1BrX-Z3nOSwS3vrxZ1yBJEBpzJavPZFzgt5Tw=s900-c-k-c0x00ffffff-no-rj" group-title="HABER",TELE NEWS
 https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
 
-#EXTINF:3 tvg-name="BLOOMBERG HT" tvg-language="Turkish" tvg-country="TR" tvg-id="BLOOMBERG HT" tvg-logo="https://www.newslive.com/wp-content/uploads/2015/05/Bloomberg-HT.png" group-title="Entertainment",BLOOMBERG HT
+#EXTINF:3 tvg-name="BLOOMBERG HT" tvg-language="Turkish" tvg-country="TR" tvg-id="BLOOMBERG HT" tvg-logo="https://www.newslive.com/wp-content/uploads/2015/05/Bloomberg-HT.png" group-title="ENTERTAINMENT",BLOOMBERG HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1649424566&st=4Y790MeXScF5LDOhVNykUQ&tv=1&app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=3
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1
@@ -102,18 +102,6 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 
 #EXTINF:-1 tvg-name="TV 8.5" tvg-id="TV85.tr" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="SPOR",TV 8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
-
-#EXTINF:-1 tvg-name="EKO TURK" tvg-id="EkoTurkTv.tr" tvg-logo="https://images.seeklogo.com/logo-png/61/2/ekoturk-logo-png_seeklogo-611924.png" group-title="EKONOMI",EKO TURK
-https://cdn501.freebroadcast.vip/ekoturktv.m3u8?tkn=p4sVG_0avmVdzR3JocpJsw&tms=1760538262&hst=tr.tvizle.me&ip=149.50.208.54
-
-#EXTINF:-1 tvg-name="DMAX" tvg-id="Dmax.tr" group-title="Entertainment",DMAX
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-
-#EXTINF:-1 tvg-name="TLC" tvg-id="Tlc.tr" group-title="Entertainment",TLC
-https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-
-#EXTINF:-1 tvg-name="TLC" tvg-id="Tlc.tr" group-title="Entertainment",TLC
-https://dogus.daioncdn.net/tlc/tlc.m3u8?app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 
 #EXTINF:-1 tvg-name="Meltem TV" tvg-id="Meltem TV.tr" tvg-logo="https://meltemtv.com.tr/uploads/logo.png" group-title="ULUSAL",MELTEM TV
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
@@ -220,10 +208,10 @@ http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 #EXTINF:3 tvg-name="BLOOMBERG HT" tvg-language="Turkish" tvg-country="TR" tvg-id="BLOOMBERG HT" tvg-logo="https://www.newslive.com/wp-content/uploads/2015/05/Bloomberg-HT.png" group-title="Entertainment",BLOOMBERG HT
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 
-#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="Entertainment",CNBC-E
+#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="ENTERTAINMENT",CNBC-E
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 
-#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="Entertainment",CNBC-E
+#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="ENTERTAINMENT",CNBC-E
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
 
 #EXTINF:-1 tvg-name="HALK TV" tvg-id="HalkTV.tr" tvg-logo="https://i.ibb.co/DYhmg6k/halk-tv.png" group-title="HABER",HALK TV
@@ -372,6 +360,7 @@ https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8
 
 #EXTINF:-1 tvg-name="STORTINGET TV" tvg-id="StortingetTv.no" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/NRK_Stortinget_Logo_Variante.jpg" group-title="YABANCI",STORTINGET TV
 https://httpcache1.dna.ip-only.net/90415-cachemn0/stortinget/8183/0/hls/Stortingssalen/playlist.m3u8
+
 
 
 
