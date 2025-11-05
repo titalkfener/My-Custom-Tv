@@ -365,7 +365,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:8 tvg-name="CBS NEWS" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/cbs-news-logo.jpg" group-title="YABANCI",CBS NEWS
-https://livetv-fa.tubi.video/cbc2/master.m3u8
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 
 #EXTINF:8 tvg-name="CGTN AMERICA" tvg-logo="https://i1.sndcdn.com/artworks-7ZEMzzU35Gl88RWw-kgsHLQ-t1080x1080.jpg" group-title="YABANCI",CGTN AMERICA
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
@@ -386,7 +386,7 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vt0XZKf/Cbcnews.png" group-title="YABANCI",CBC NEWS
-https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
+https://livetv-fa.tubi.video/cbc2/master.m3u8
 
 #EXTINF:8 tvg-name="RT NEWS" tvg-logo="https://ddtelevision.weebly.com/uploads/1/1/9/4/119425323/799715736_orig.jpg" group-title="YABANCI",RT NEWS
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
@@ -462,6 +462,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-HPKM7-dh0vY/AAAAAAAAAAI/AAAAAAAAAAA/VF5qFJziupM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="YABANCI",CMUSIC
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
 
 
 
