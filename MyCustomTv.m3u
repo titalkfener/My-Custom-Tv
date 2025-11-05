@@ -26,7 +26,7 @@ https://trn03.tulix.tv/gt-trt1-tveu/playlist.m3u8
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
 #EXTINF:-1 tvg-name="TRT 2" tvg-id="TRT2.tr" tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="ULUSAL",TRT 2
-https://cdn900.hizlitv.org/trt2.m3u8?tkn=Z52SfXpSaHetL-CB7-H0Mg&tms=1762304608&hst=hizlitv.org&ip=2001:4645:3054:0:5d17:fd35:31fc:5e05
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TrtBelgeselTv.tr" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2018-12-14-16.28.44/bd4958b6530a4f539c0df8d227fdcd68.png" group-title="BELGESEL",TRT BELGESEL
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
@@ -459,6 +459,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-HPKM7-dh0vY/AAAAAAAAAAI/AAAAAAAAAAA/VF5qFJziupM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="YABANCI",CMUSIC
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
 
 
 
