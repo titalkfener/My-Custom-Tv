@@ -28,6 +28,9 @@ https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 #EXTINF:-1 tvg-name="MK TV" tvg-id="MkTv.tr" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MK_TV.png" group-title="HABER",MK TV 
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 
+#EXTINF:0,BiR TV tvg-logo="https://www.birtv.tv/assets/upload/637f83951df60.png.webp" group-title="HABER",BiR TV
+https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
+
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
@@ -444,6 +447,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-HPKM7-dh0vY/AAAAAAAAAAI/AAAAAAAAAAA/VF5qFJziupM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="YABANCI",CMUSIC
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
 
 
 
