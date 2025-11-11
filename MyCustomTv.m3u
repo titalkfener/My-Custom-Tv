@@ -16,8 +16,17 @@ https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236
 #EXTINF:3 tvg-name="BLOOMBERG HT" tvg-language="Turkish" tvg-country="TR" tvg-id="BLOOMBERG HT" tvg-logo="https://www.newslive.com/wp-content/uploads/2015/05/Bloomberg-HT.png" group-title="ENTERTAINMENT",BLOOMBERG HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1649424566&st=4Y790MeXScF5LDOhVNykUQ&tv=1&app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=3
 
+#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="ENTERTAINMENT",CNBC-E
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
+
+#EXTINF:-1 tvg-name="HALK TV" tvg-id="HalkTV.tr" tvg-logo="https://i.ibb.co/DYhmg6k/halk-tv.png" group-title="HABER",HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
 #EXTINF:0,İLKE TV tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" group-title="HABER",iLKE TV
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+
+#EXTINF:-1 tvg-name="MK TV" tvg-id="MkTv.tr" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MK_TV.png" group-title="HABER",MK TV 
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
@@ -52,14 +61,8 @@ https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vHwMgx0/ciftci.png" group-title="BELGESEL",ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
-#EXTINF:-1 YABAN TV group-title="BELGESEL",YABAN TV
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
-
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
-
-#EXTINF:-1 tvg-name="KANAL D" tvg-id="KanalD.tr" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D
-http://trn03.tulix.tv/gt-kanald-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="ULUSAL",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
@@ -78,9 +81,6 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressour
 
 #EXTINF:-1 tvg-name="NOW" tvg-id="Fox.tr" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="ULUSAL",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-
-#EXTINF:-1 tvg-name="NOW" tvg-id="Fox.tr" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="ULUSAL",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=cVVHGY39rJOw_TvM7jL2jQ&e=1761744265
 
 #EXTINF:-1 tvg-name="SHOW TV" tvg-id="ShowTV.tr" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
@@ -188,7 +188,7 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 https://ensonhaber-live.ercdn.net/trthaber/trthaber.m3u8
 
 #EXTINF:-1 tvg-name="CNN TURK" tvg-id="CNNTurk.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/cnnturk.m3u8
 
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
@@ -196,14 +196,8 @@ https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 
-#EXTINF:-1 tvg-name="CNBC-E" tvg-id="CNBC-E.tr" tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="ENTERTAINMENT",CNBC-E
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/CNBC_E.m3u8
-
 #EXTINF:-1 tvg-name="HALK TV" tvg-id="HalkTV.tr" tvg-logo="https://i.ibb.co/DYhmg6k/halk-tv.png" group-title="HABER",HALK TV
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
-
-#EXTINF:-1 tvg-name="HALK TV" tvg-id="HalkTV.tr" tvg-logo="https://i.ibb.co/DYhmg6k/halk-tv.png" group-title="HABER",HALK TV
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
 #EXTINF:-1 tvg-name="TELE 1" tvg-id="Tele1.tr" tvg-logo="https://i.ibb.co/6yVTw6f/tele1.png" group-title="HABER",TELE 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
@@ -273,9 +267,6 @@ https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ULUSAL KANAL" tvg-id="UlusalKanalTv.tr" group-title="HABER",ULUSAL KANAL
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8
-
-#EXTINF:-1 tvg-name="MK TV" tvg-id="MkTv.tr" group-title="HABER",MK TV 
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 
 #EXTINF:-1 tvg-name="KRT TV" tvg-id="KrtTv.tr" group-title="HABER",KRT TV 
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Krt_Tv.m3u8
@@ -364,9 +355,6 @@ https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 #EXTINF:8 tvg-name="CGTN AMERICA" tvg-logo="https://i1.sndcdn.com/artworks-7ZEMzzU35Gl88RWw-kgsHLQ-t1080x1080.jpg" group-title="YABANCI",CGTN AMERICA
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 
-#EXTINF:-1 tvg-name="C-SPAN" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mE7sPnKhbJKbqDc9ESEjaK0Ip3jwQkGY4a3USPkxEXSUw=s900-c-k-c0x00ffffff-no-rj" group-title="YABANCI",C-SPAN
-http://fl1.moveonjoy.com/C-SPAN/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q0FfqdV/Globalnews.png" group-title="YABANCI",GLOBAL NEWS
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live.m3u8
 
@@ -397,8 +385,8 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9gLmqv/cgtnch.png" group-title="YABANCI",CGTN NEWS
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
-#EXTINF:6 tvg-name="AJZ TV" tvg-language="English" tvg-country="USA" tvg-id="AJZ TV" tvg-logo="https://cdn.vox-cdn.com/thumbor/eE0t8u6vxZq5mGEQ3AkBB_Z5rJ8=/30x0:519x326/1200x800/filters:focal(30x0:519x326)/cdn.vox-cdn.com/assets/1946075/aljazeera.png" group-title="YABANCI",AJZ TV
-https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#EXTINF:6 tvg-name="AL JAZEERA NEWS" tvg-language="English" tvg-country="USA" tvg-id="AL JAZEERA NEWS" tvg-logo="https://cdn.vox-cdn.com/thumbor/eE0t8u6vxZq5mGEQ3AkBB_Z5rJ8=/30x0:519x326/1200x800/filters:focal(30x0:519x326)/cdn.vox-cdn.com/assets/1946075/aljazeera.png" group-title="YABANCI",AL JAZEERA NEWS 
+https://live-hls-web-aje.getaj.net/AJE/master.m3u8
 
 #EXTINF:4 tvg-name="ABC NEWS" tvg-language="English" tvg-country="USA" tvg-id="ABC NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2023/09/ABC-News-Emblem.png" group-title="YABANCI",ABC NEWS
 https://livetv-fa.tubi.video/abc-news/index.m3u8
@@ -456,6 +444,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-HPKM7-dh0vY/AAAAAAAAAAI/AAAAAAAAAAA/VF5qFJziupM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="YABANCI",CMUSIC
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
 
 
 
