@@ -112,7 +112,7 @@ http://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
 #EXTINF:0,tvg-name="TYT TURK" tvg-logo="https://tytturk.com/upload/tyt-logo.png" group-title="ULUSAL",TYT TURK
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 
-#EXTINF:0,tvg-name="Tv 5" tvg-id="Tv5.tr" tvg-logo="https://www.pngkit.com/png/full/192-1929991_tv5-2015-on-screen-bugs-logo-tv-5.png" group-title="ULUSAL",TV 5
+#EXTINF:0,tvg-name="Tv 5" tvg-id="Tv5.tr" tvg-logo="https://image.pngaaa.com/532/2090532-middle.png" group-title="ULUSAL",TV 5
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 7" tvg-id="Kanal7.tr" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="ULUSAL",KANAL 7
@@ -447,6 +447,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-HPKM7-dh0vY/AAAAAAAAAAI/AAAAAAAAAAA/VF5qFJziupM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="YABANCI",CMUSIC
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
 
 
 
