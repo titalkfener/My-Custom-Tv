@@ -353,7 +353,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:8 tvg-name="CBS NEWS" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/cbs-news-logo.jpg" group-title="YABANCI",CBS NEWS
-https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?imafw_csid=vcbs_xumo_ctv_allos_live_cbsnews;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:[deviceID]&imafw__fw_is_lat=[LIMITED_AD_TRACKING]&imafw__fw_vcid2=[PPID]&imafw__fw_app_bundle=[app_bundle]&imafw_is_lat=[LIMITED_AD_TRACKING]
 
 #EXTINF:8 tvg-name="CGTN AMERICA" tvg-logo="https://i1.sndcdn.com/artworks-7ZEMzzU35Gl88RWw-kgsHLQ-t1080x1080.jpg" group-title="YABANCI",CGTN AMERICA
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
@@ -447,6 +447,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-HPKM7-dh0vY/AAAAAAAAAAI/AAAAAAAAAAA/VF5qFJziupM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="YABANCI",CMUSIC
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
 
 
 
