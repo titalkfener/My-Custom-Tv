@@ -250,11 +250,8 @@ https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8
 #EXTINF:-1 tvg-name="NRK 3" tvg-id="NRK3.no" tvg-logo="https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/10003.png" group-title="YABANCI",NRK 3
 https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8
 
-#EXTINF:-1 tvg-name="STORTINGET TV" tvg-id="StortingetTv.no" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/NRK_Stortinget_Logo_Variante.jpg" group-title="YABANCI",STORTINGET TV
-https://httpcache1.dna.ip-only.net/90415-cachemn0/stortinget/8183/0/hls/Stortingssalen/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/assets/images/logos/channels/color/cheddar-business_color.png" group-title="YABANCI",CHEDDAR TV
-https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
+https://wurlcheddar.global.transmit.live/hls/689ceac9301c34d3919676f3/v1/Cheddar/samsung_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title="YABANCI",BBC NEWS
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -287,7 +284,7 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vt0XZKf/Cbcnews.png" group-title="YABANCI",CBC NEWS
-https://livetv-fa.tubi.video/cbc2/master.m3u8
+https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
 
 #EXTINF:8 tvg-name="RT NEWS" tvg-logo="https://ddtelevision.weebly.com/uploads/1/1/9/4/119425323/799715736_orig.jpg" group-title="YABANCI",RT NEWS
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
@@ -314,7 +311,7 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XWNXpVg/talk.png" group-title="YABANCI",TALK NEWS
-https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img3.wikia.nocookie.net/__cb20130825034903/logopedia/images/8/84/Yahoo!_18_Favicon.png" group-title="YABANCI",YAHOO
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
@@ -329,7 +326,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991147/hls/playlist.m3u8?ads.xumo_c
 https://bloomberg.com/media-manifest/streams/us.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/CNBC-Logo.png" group-title="YABANCI",CNBC
-https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/d519fba0-7576-4af4-8283-94d382196ae8/landscape_SCHN_logo.png" group-title="YABANCI",SCHWAB NETWORK
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
@@ -343,11 +340,11 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fltaradio.com/upload/2018/09/cgtn-documentary.jpg" group-title="YABANCI",CGTN DOCUMENTRAY
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 
+#EXTINF:-1 group-title="YABANCI",LOVE NATURE
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/BBC_Earth_Logo.png/revision/latest?cb=20140315014016" group-title="YABANCI",BBC EARTH
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://go2travelling.net/wp-content/uploads/go2-logo-pink.png" group-title="YABANCI",GO2TRAVEL
-https://go2thls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gAKgCxYU1hHi4Q9_PGH7Ut3sFgXvQPVe85TNA4yy50HBRp8dApHNXfhUKdLK2W1B9YTx" group-title="YABANCI",BARAZA MUSIC
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
