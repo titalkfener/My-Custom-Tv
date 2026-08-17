@@ -4,8 +4,8 @@
 #EXTINF:0 tvg-name="MC EU TV" tvg-language="Turkish" tvg-country="TUR" tvg-id="MC EU -TV" tvg-logo="https://image.winudf.com/v2/image/dHYuZXUubWMubWN0dl9pY29uXzE1MDM2Mjg1NzJfMDgz/icon.png?w=184&fakeurl=1" group-title="ENTERTAINMENT",MC EU TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
-#EXTINF:-1 tvg-name="CAN TV" tvg-id="" tvg-logo="https://cantv.tv/wp-content/uploads/2024/04/Cantv-logo-1140x570.png" group-title="ULUSAL",CAN TV
-https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
+#EXTINF:-1 tvg-name="TV 100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/zZnBCWt/tv100.png" group-title="HABER",TV 100
+https://x.canlitvapp.com/tv100/index.m3u8?token=0344acf68137bc4ece5944fa988ac2d06495d3b6-ecd4b78052a0c1c5f3323e60f17a303f-1787010231-1786999431
 
 #EXTINF:-1 tvg-name="Tarih Tv" tvg-id="TarihTv.tr" tvg-logo="https://digiturkpaketler.com/img/kanallar/kanallar2/tarih-tv-buyuk.webp" group-title="BELGESEL",TARIH TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/Tarih-tv/playlist/0.m3u8
@@ -173,7 +173,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 
 #EXTINF:-1 tvg-name="TV 100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/zZnBCWt/tv100.png" group-title="HABER",TV 100
-https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
+https://x.canlitvapp.com/tv100/tracks-v1a1/mono.m3u8?token=906281ef06aee45f07123e26f75e6158cbef35c3-01216fd5ae40af2eda97be624829e733-1787000120-1786999220
 
 #EXTINF:-1 tvg-name="EKOL TV" tvg-id="EkolTv.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPRFwshNRkKR5_3i2-1KmWE1rfaqJB57Ld6_CjkAmD5HjMIV0x86iMBE7hsxbMGcDYlw&usqp=CAU" group-title="HABER",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
