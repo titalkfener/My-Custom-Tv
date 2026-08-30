@@ -4,8 +4,8 @@
 #EXTINF:0 tvg-name="MC EU TV" tvg-language="Turkish" tvg-country="TUR" tvg-id="MC EU -TV" tvg-logo="https://image.winudf.com/v2/image/dHYuZXUubWMubWN0dl9pY29uXzE1MDM2Mjg1NzJfMDgz/icon.png?w=184&fakeurl=1" group-title="ENTERTAINMENT",MC EU TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
-#EXTINF:-1 tvg-name="TV 100" tvg-id="TV100.tr" tvg-logo="https://i.ibb.co/zZnBCWt/tv100.png" group-title="HABER",TV 100
-https://7nyaler.streamhostingcdn.top/stream/46/index.m3u8
+#EXTINF:-1 tvg-name="Idman TV" tvg-id="idmantv.az" group-title="SPOR",IDMAN TV
+https://str.yodacdn.net/idmantele/index.m3u8?token=eyJpcCI6Ijg1LjE2Ni4yNDEuNCIsInVhIjoiTW96aWxsYS81LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUyLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJleHAiOjE3ODgxMDEwMjYsImp0aSI6IjY2YmYxMmNkNWI5MDBmN2QifQ==.C8U/BKjTH1mMFwJ1GF5028gTdXN8QCIKz6VrKeOdweA=
 
 #EXTINF:-1 tvg-name="Tarih Tv" tvg-id="TarihTv.tr" tvg-logo="https://digiturkpaketler.com/img/kanallar/kanallar2/tarih-tv-buyuk.webp" group-title="BELGESEL",TARIH TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/Tarih-tv/playlist/0.m3u8
